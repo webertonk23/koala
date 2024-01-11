@@ -1,0 +1,24 @@
+Segunda feira 14
+	Recolhimento das chaves
+	Instalação de internet
+
+Terça Feira 15
+	Seleção de suporte
+	Configurção de intranet (Adv)
+	Começo de criação de matris de SO para clonagem de maquinas
+
+Quarta feira
+	Teste de intranet e sistemas
+	Finalização de matris de SO para clonagem
+	Reatiavação de internet e intranet
+	Solicitação de troca das senhas de alarme
+	Configuração e wifi
+	
+Quinta feira
+	Clonagem de 23 maquinas
+	Inclusão de dominio
+	Troca de modem e IP de internet
+	Organização de maquinas
+	
+Sexta Feira
+	Start de operação com 23 maquinas
